@@ -4,7 +4,7 @@
   Nesse projeto foram desenvolvidas funções para realizar análises de dados relacionados à empregos.
   Também foram desenvolvidos testes unitários para confirmar o funcionamento correto de determinadas funções.
 
-  As funções de análise de dados estão no diretório: "job-insights/src"
+  As funções de análise de dados estão no diretório: "job-insights/src"<br />
   Os arquivos de testes encontram-se no diretório: "job-insights/tests/counter/".
 
 ---
