@@ -12,6 +12,7 @@
 ### Habilidades desenvolvidas
 - Manipulação da linguagem Python
 - Entrada e saída de dados
+- Leitura e escrita de arquivos CSV e JSON
 - Utilizar tratamento de exceções.
 - Realizar a manipulação de arquivos.
 - Escrever funções.
