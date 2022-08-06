@@ -1,16 +1,24 @@
-# 🚧 README em construção 🚧
+# Projeto Job Insights
+  Esse projeto foi desenvolvido no curso da Trybe, no módulo de Ciência da Computação.
 
-<!-- Olá, Tryber!
+  Nesse projeto foram desenvolvidas funções para realizar análises de dados relacionados à empregos.
+  Também foram desenvolvidos testes unitários para confirmar o funcionamento correto de determinadas funções.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+  Os arquivos de testes encontram-se no diretório: "src/testes".
 
-É essencial que você preencha esse documento por conta própria, ok?
+---
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+### Habilidades desenvolvidas
+- Manipulação da linguagem Python
+- Entrada e saída de dados
+- Utilizar tratamento de exceções.
+- Realizar a manipulação de arquivos.
+- Escrever funções.
+- Escrever testes com Pytest.
+- Escrever módulos e importá-los em outros códigos.
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+---
 
--->
+### Tecnologias utilizadas
+- Python
+- PyTest
